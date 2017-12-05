@@ -1,0 +1,19 @@
+.navbar {
+	width: 50%;
+	margin: 0 auto;
+	border-bottom-right-radius: 5px;
+	border-bottom-left-radius: 5px;
+}
+#logo {
+	float: right;
+}
+#font {
+	display: block;
+	font-family: 'Pacifico', cursive;
+	font-size: 3rem;
+	margin: 0 auto;
+}
+.container {
+	margin-top: 10em;
+	border: 5px solid black;
+}
